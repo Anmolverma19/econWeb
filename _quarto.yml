@@ -1,0 +1,12 @@
+website:
+  title: "My Quarto Website"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+      - text: Blog
+        href: blog.qmd
